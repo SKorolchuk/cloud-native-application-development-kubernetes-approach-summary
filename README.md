@@ -1,14 +1,14 @@
 # Application development, CI/CD and monitoring: Kubernetes approach
----------------
+
 ## Description
----------------
+
 Summary notes about application and service development in Kubernetes: documentation, diagrams, guides, samples and bibliography
 
-### `Note: Please, create issues or PR's with any copyright reference if I have missed links`
+#### `Note: Please, create issues or PR's with any copyright reference if I have missed links`
 
 ------------
 ## Contents
-------------
+
     1. Evolution of containers and orchestrators
     2. Distributed complexity and isolation restrictions in containers
     3. Kubernetes goals and usage advantages

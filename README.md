@@ -14,9 +14,9 @@ Summary notes about application and service development in Kubernetes: documenta
 3. [Kubernetes goals and usage advantages](docs/3-kubernetes-goals.md)
 4. [Common container patterns](docs/4-common-patterns.md)
 5. [12-Factor application principles](docs/5-12-factor-app-principles.md)
-6. Cloud Native application principles in Kubernetes
-7. Importance of development and QA/Production environment parity
-8. One-click start with Kubernetes dashboard as starting point
+6. [Cloud Native application principles in Kubernetes](docs/6-cloud-native-principles-in-k8s.md) In Progress
+7. [Importance of development and QA/Production environment parity](docs/7-qa-prod-env-parity.md)
+8. [`One-click` start with Kubernetes dashboard as starting learning point](docs/8-k8s-dashboard-setup.md)
 9. Kubernetes architecture overview
     - Control plane definition
     - Simplified Kubernetes Application structure map

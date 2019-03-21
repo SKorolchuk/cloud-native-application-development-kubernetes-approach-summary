@@ -1,6 +1,6 @@
 # Kubernetes goals and usage advantages
 
-## [Back](../README.md)
+### [Back](../README.md)
 
 | Kubernetes project goal |
 | ------- |

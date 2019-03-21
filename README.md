@@ -12,7 +12,7 @@ Summary notes about application and service development in Kubernetes: documenta
 1. [Evolution of containers and orchestrators](docs/1-container-evolution.md)
 2. [Distributed complexity and isolation restrictions in containers](docs/2-distributed-complexity-in-containers.md)
 3. [Kubernetes goals and usage advantages](docs/3-kubernetes-goals.md)
-4. Common container patterns
+4. [Common container patterns](docs/4-common-patterns.md)
 5. 12-Factor application principles
 6. Cloud Native application principles in Kubernetes
 7. Importance of development and QA/Production environment parity

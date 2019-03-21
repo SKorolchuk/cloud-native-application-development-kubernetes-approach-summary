@@ -28,3 +28,12 @@
   - https://www.aquasec.com/wiki/display/containers/Kubernetes+101
 - Awesome resource list for Kubernetes learning
   - https://github.com/ramitsurana/awesome-kubernetes
+- Reconciliation in Kubernetes: Automatic control in distributed systems
+    - https://hackernoon.com/level-triggering-and-reconciliation-in-kubernetes-1f17fe30333d
+- Kubernetes beyond black box - presentation
+    - Part 1 - https://www.slideshare.net/harryzhang735/kubernetes-beyond-a-black-box-part-1
+    - Part 2 - https://www.slideshare.net/harryzhang735/kubernetes-beyond-a-black-box-part-2
+- Cloud-native application design principles
+    - https://pivotal.io/cloud-native
+- Kubernetes and CoreOS presentation
+    - https://www.slideshare.net/mistio/kubernetes-and-coreos-athens-docker-meetup

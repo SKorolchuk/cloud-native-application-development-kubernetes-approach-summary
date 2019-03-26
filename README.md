@@ -19,7 +19,7 @@ Summary notes about application and service development in Kubernetes: documenta
 8. [`One-click` start with Kubernetes dashboard as starting learning point](docs/8-k8s-dashboard-setup.md)
 9. [Kubernetes architecture high level overview](docs/9-high-level-k8s-arch.md)
     - [Control plane definition](docs/9-1-control-plane-definition.md)
-    - Simplified Kubernetes Application structure map
+    - [Simplified Kubernetes Application structure map](docs/9-2-k8s-sample-application-arch.md)
     - Kubectl, kube-proxy, kubeadm, kubelet, kubefed core utilities
     - Etcd High Available configuration store
     - API Server

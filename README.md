@@ -20,7 +20,7 @@ Summary notes about application and service development in Kubernetes: documenta
 9. [Kubernetes architecture high level overview](docs/9-high-level-k8s-arch.md)
     - [Control plane definition](docs/9-1-control-plane-definition.md)
     - [Simplified Kubernetes Application structure map](docs/9-2-k8s-sample-application-arch.md)
-    - Kubectl, kube-proxy, kubeadm, kubelet, kubefed core utilities
+    - [Kubectl, kube-proxy, kubeadm, kubelet, kubefed core utilities](docs/9-3-k8s-core-utilities.md)
     - Etcd High Available configuration store
     - API Server
     - Scheduler

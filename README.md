@@ -18,7 +18,7 @@ Summary notes about application and service development in Kubernetes: documenta
 7. [Importance of development and QA/Production environment parity](docs/7-qa-prod-env-parity.md)
 8. [`One-click` start with Kubernetes dashboard as starting learning point](docs/8-k8s-dashboard-setup.md)
 9. [Kubernetes architecture high level overview](docs/9-high-level-k8s-arch.md)
-    - Control plane definition
+    - [Control plane definition](docs/9-1-control-plane-definition.md)
     - Simplified Kubernetes Application structure map
     - Kubectl, kube-proxy, kubeadm, kubelet, kubefed core utilities
     - Etcd High Available configuration store

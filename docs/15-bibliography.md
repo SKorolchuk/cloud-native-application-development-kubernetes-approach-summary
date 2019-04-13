@@ -37,3 +37,21 @@
     - https://pivotal.io/cloud-native
 - Kubernetes and CoreOS presentation
     - https://www.slideshare.net/mistio/kubernetes-and-coreos-athens-docker-meetup
+- Cloud Architecture Patterns
+    - https://www.oreilly.com/library/view/cloud-architecture-patterns/9781449357979/
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations
+    - https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002
+- Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale
+    - https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309
+- Building Microservices: Designing Fine-Grained Systems
+    - https://www.amazon.com/dp/1491950358
+- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services
+    - https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647
+- Distributed Systems 3.01 Edition
+    - https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381
+- Database Reliability Engineering: Designing and Operating Resilient Database Systems
+    - https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949
+- Benchmark results of Kubernetes network plugins (CNI) over 10Gbit/s network
+    - https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560
+- Running integration tests in Kubernetes
+    - https://itnext.io/running-integration-tests-with-kubernetes-ae0fb71e207b

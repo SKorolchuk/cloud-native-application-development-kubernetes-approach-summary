@@ -20,3 +20,15 @@
 - Rapid growth in container technologies has led to the need in standardization, integration and collaboration between container technologies
 - Fragmentation: Docker, rkt, LXC/LXD, Hyper-V, VMWare, OpenVZ
 - Cloud consumers wants to not be bound within concrete orchestration system, OS, architecture, vendor, cloud, etc.
+
+### Current container tech stack:
+
+- Docker and Moby
+- rkt
+- containerd
+- cri-o
+- hyper.sh
+- runc
+- host compute service
+- lxc
+- bare cgroups

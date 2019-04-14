@@ -4,6 +4,8 @@
 
 - Reusable patterns for scalable APIs running on Docker
   - https://www.slideshare.net/nstoitsev/reusable-patterns-for-scalable-apis-running-on-docker-java2days
+- Kubernetes By Example
+  - http://kubernetesbyexample.com/
 - 7 container design patterns you need to know
   - https://techbeacon.com/enterprise-it/7-container-design-patterns-you-need-know
 - Multi-Container Pod Design Patterns in Kubernetes
@@ -12,6 +14,10 @@
   - https://thenewstack.io/kubernetes-an-overview/
 - How do you build 12-factor apps using Kubernetes?
   - https://www.mirantis.com/blog/how-do-you-build-12-factor-apps-using-kubernetes
+- 12 Factors Kubernetes
+  - https://www.slideshare.net/EtienneCoutaud/12-factors-kubernetes
+- The Twelve-Factors Kubernetes
+  - https://blog.octo.com/en/the-twelve-factors-kubernetes/
 - Kubernetes documentation
     - https://kubernetes.io/docs/home
 - Getting Started with Kubernetes - Second Edition: Orchestrate and manage large-scale Docker deployments
@@ -55,3 +61,5 @@
     - https://itnext.io/benchmark-results-of-kubernetes-network-plugins-cni-over-10gbit-s-network-36475925a560
 - Running integration tests in Kubernetes
     - https://itnext.io/running-integration-tests-with-kubernetes-ae0fb71e207b
+- 11 Ways (Not) to Get Hacked
+    - https://control-plane.io/posts/11-ways-not-to-get-hacked/

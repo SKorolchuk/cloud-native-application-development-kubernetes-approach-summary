@@ -1,0 +1,3 @@
+[submodule "demos/helm-skaffold-jx-microservices"]
+	path = demos/helm-skaffold-jx-microservices
+	url = https://github.com/SKorolchuk/k8s-microservice-demo-helm-skaffold-jx.git

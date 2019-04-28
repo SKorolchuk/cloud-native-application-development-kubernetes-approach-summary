@@ -63,3 +63,5 @@
     - https://itnext.io/running-integration-tests-with-kubernetes-ae0fb71e207b
 - 11 Ways (Not) to Get Hacked
     - https://control-plane.io/posts/11-ways-not-to-get-hacked/
+- Kubernetes monitoring pipelines
+    - https://medium.com/magalix/kubernetes-monitoring-101-core-pipeline-services-pipeline-a34cd4cc9627

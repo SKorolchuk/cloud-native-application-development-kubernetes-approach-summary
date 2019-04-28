@@ -65,3 +65,25 @@
     - https://control-plane.io/posts/11-ways-not-to-get-hacked/
 - Kubernetes monitoring pipelines
     - https://medium.com/magalix/kubernetes-monitoring-101-core-pipeline-services-pipeline-a34cd4cc9627
+- Install Spinnaker
+    - https://medium.com/oracledevs/install-spinnaker-with-halyard-on-kubernetes-88277bd61d59
+- Spinnaker basics
+    - https://blog.spinnaker.io/scaling-spinnaker-at-netflix-part-1-8a5ae51ee6de
+- Spinnaker docs
+    - https://www.spinnaker.io/concepts/
+- Imperative vs Declarative control
+    - https://medium.com/@dominik.tornow/imperative-vs-declarative-8abc7dcae82e
+- RBAC explained
+    - https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a
+- Cloud Native Applications
+    - https://medium.com/@dominik.tornow/glossary-cloud-native-applications-faa931e7eea6
+- Kubernetes Scheduler
+    - https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f
+- Kubernetes workflow mechanics
+    - https://medium.com/@dominik.tornow/the-mechanics-of-kubernetes-ac8112eaa302
+- Kubernetes API Server
+    - https://medium.com/@dominik.tornow/kubernetes-api-server-part-i-3fbaf2138a31
+- Kubernetes HA scheme
+    - https://medium.com/@dominik.tornow/kubernetes-high-availability-d2c9cbbdd864
+- Pod explained
+    - https://medium.com/@dominik.tornow/what-the-hell-is-a-pod-anyways-72e5534b892c

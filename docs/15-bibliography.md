@@ -87,3 +87,11 @@
     - https://medium.com/@dominik.tornow/kubernetes-high-availability-d2c9cbbdd864
 - Pod explained
     - https://medium.com/@dominik.tornow/what-the-hell-is-a-pod-anyways-72e5534b892c
+- Istio The easy way
+    - https://medium.com/solo-io/istio-the-easy-way-de66e6eba4a1
+- Istio in production
+    - https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+- Istio Routing
+    - https://medium.com/google-cloud/istio-routing-basics-14feab3c040e
+- Istio Crash Course
+    - https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715
